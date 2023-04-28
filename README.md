@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **DevOps Enginers**
 
-- 📫 How to reach me **pavanraj97@gmail.com**
+- 📫 How to reach me **spavanraj97@gmail.com**
 
 - ⚡ Fun fact **Follow Regular Tech News**
 
