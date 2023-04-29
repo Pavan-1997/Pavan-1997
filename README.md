@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavan Raj Seeramdas</h1>
-<h3 align="center">MEng in Internetworking | Cloud Operations Engineer | Network Engineer | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Pavan</h1>
+<h3 align="center">MEng in Internetworking | CloudOps Infra Engineer | Tech Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://lavkushkumar.com/wp-content/uploads/2023/01/professional-wordpress-developer.gif">
 
