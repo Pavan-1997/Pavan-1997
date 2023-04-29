@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-1997&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-1997" /> </p>
 
 
+- 🏫 I’m currently studing in **Dalhousie University**
 
 - 🔭 I’m currently working on **Apache Kafka and Splunk**
 
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **spavanraj97@gmail.com**
 
-- ⚡ Fun fact **Follow Regular Tech News**
+- ⚡ Fun fact **I'm good at cooking 😋** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
