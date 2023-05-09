@@ -8,7 +8,7 @@
 
 - 🏫 I’m currently studing in **Dalhousie University**
 
-- 🔭 I’m currently working on **Apache Kafka and Splunk**
+- 🔭 I’m currently working on **Apache Kafka**
 
 - 🌱 I’m currently learning **Web Development**
 
