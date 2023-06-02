@@ -41,10 +41,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-1997&" alt="pavan-1997" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pavan-1997&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Pavan-1997&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Pavan-1997/Pavan-1997/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Pavan-1997/Pavan-1997/blob/output/github-contribution-grid-snake.gif)
 
 
