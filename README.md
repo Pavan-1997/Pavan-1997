@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40"> , I'm Pavan</h1>
-<h3 align="center">MEng in Internetworking | CloudOps Infra Engineer | Tech Enthusiast</h3>
+<h3 align="center"> DevOps Engineer | Site Reliability Engineer | CloudOps Infra Engineer </h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://lavkushkumar.com/wp-content/uploads/2023/01/professional-wordpress-developer.gif">
