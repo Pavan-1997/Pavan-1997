@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **www.seeramdas.com**
 
-- 🌱 I’m currently learning **Apache Kafka**
+- 🌱 I’m currently learning **Openshift Container Platform**
 
 - 👯 I’m looking to collaborate with **DevOps Enginers**
 
