@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40"> , I'm Pavan</h1>
+<h1 align="center">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="40"> , I'm Pavan</h1>
+
 <h3 align="center"> DevOps Engineer | Site Reliability Engineer | CloudOps Infra Engineer </h3>
 
 
