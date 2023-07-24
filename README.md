@@ -52,10 +52,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-<p> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /></p> 
+<p> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pavan-1997/Pavan-1997/output/github-contribution-grid-snake.svg" /></p> 
 
-  <p>&nbsp;<img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=pavan-1997&show_icons=true&locale=en" alt="pavan-1997" /></p>
-
+ 
 
 
 <h3 align="center">
