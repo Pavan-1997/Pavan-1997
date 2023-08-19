@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="40"> , I'm Pavan</h1>
 
 <h3 align="center"> DevOps Engineer | Site Reliability Engineer | CloudOps Infra Engineer </h3>
-<h3 align="center"> AZ-103, TERRAFORM CERTIFIED </h3>
+<h4 align="center"> AZ-103, TERRAFORM CERTIFIED </h4>
 
 
 <img align="right" alt="Coding" width="400" src="https://lavkushkumar.com/wp-content/uploads/2023/01/professional-wordpress-developer.gif">
