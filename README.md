@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-1997&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-1997" /> </p>
 
 
-- 🏫 I’m a graduate from **Dalhousie University**
+- 🏫 Graduated from **Dalhousie University**
 
 - 🔭 I’m currently working on **www.seeramdas.com**
 
