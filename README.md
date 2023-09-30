@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **www.seeramdas.com**
 
-- 🌱 I’m currently learning **Openshift Container Platform**
+- 🌱 I’m currently looking for Opportunities
 
 - 👯 I’m looking to collaborate with **DevOps Enginers**
 
