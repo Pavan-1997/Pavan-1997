@@ -11,8 +11,6 @@
 
 - 🏫 Graduated from **Dalhousie University**
 
-- 🔭 I’m currently working on **www.seeramdas.com**
-
 - 🌱 I’m currently looking for Opportunities
 
 - 👯 I’m looking to collaborate with **DevOps Enginers**
