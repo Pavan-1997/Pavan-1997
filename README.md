@@ -12,7 +12,7 @@
 
 - 🏫 Graduated from **Dalhousie University**
 
-- 🌱 I’m currently looking for Opportunities
+- 🌱 I’m currently looking for **Opportunities**
 
 - 👯 I’m looking to collaborate with **DevOps Enginers**
 
