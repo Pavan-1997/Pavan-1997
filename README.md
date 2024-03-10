@@ -4,7 +4,7 @@
               
 <h4 align="center"> CKA, TERRAFORM ASSOCIATE, AZ-103 CERTIFIED </h4>     
                                                                        
-                                                                      
+                                                                       
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-1997&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-1997" /> </p>
