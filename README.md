@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **spavanraj97@gmail.com**
 
-- ⚡ Fun fact: **I get fascinated by Nuclear Energy ☢️** 
+- ⚡ Fun fact: **I get fascinated by GenAI** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
