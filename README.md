@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 , I'm Pavan !</h1>        
                                                                                                                                     
-<h3 align="center"> DevOps Engineer | Site Reliability Engineer | CloudOps Infra Engineer </h3>     
+<h3 align="center"> DevSecOps Engineer | Cloud Security Analyst | Cybersecurity Analyst </h3>     
               
 <h4 align="center"> CKA, TERRAFORM ASSOCIATE, AZ-103 CERTIFIED </h4>     
                                                                                   
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently looking for **Opportunities**
 
-- 👯 I’m looking to collaborate with **DevOps Enginers**
+- 👯 I’m looking to collaborate with **Cybersecurity Enginers**
 
 - 📫 How to reach me **spavanraj97@gmail.com**
 
