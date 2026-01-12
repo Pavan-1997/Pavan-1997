@@ -2,7 +2,7 @@
                                                                                                                                     
 <h3 align="center"> Application Support Analyst | IT Analyst | Cybersecurity Analyst </h3>     
               
-<h4 align="center"> CKA, TERRAFORM ASSOCIATE, AZ-103 CERTIFIED </h4>     
+<h4 align="center"> CKA, Terraform Associate, AZ-103 Certified </h4>     
                                                                                   
                                                                              
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
